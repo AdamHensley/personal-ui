@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "personal-ui": {
+      "hosting": {
+        "personal-ui": [
+          "personal-ui"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "personal-ui"
+  }
+}
